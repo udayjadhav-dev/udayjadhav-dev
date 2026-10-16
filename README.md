@@ -10,8 +10,8 @@ Experienced software professional specializing in the intersection of advanced d
 * **Natural Language Processing (NLP):** Developing robust pipelines capable of capturing contextual boundary nuances, irony, implicit negation, and semantic transitions.
 
 ### 📁 Featured Research Repositories
-* 🚀 **[tinyml-model-shrinking](https://github.com/udayjadhav-dev/tinyml-model-shrinking)**: A production-ready text optimization pipeline utilizing TorchAO to dynamically compress Transformer models (INT8) by 48% for low-resource edge deployment.
-* 📊 **Sentiment Analysis System**: A comprehensive evaluation of classical machine learning algorithms (Linear SVC, Naive Bayes, Logistic Regression) optimized against large-scale movie review data matrices.
+**nlp-transformer-compression**: A production-ready deep transformer optimization pipeline utilizing TorchAO to dynamically compress parameters (INT8) by 48.14%, unblocking zero-latency standalone edge deployments with full linguistic resilience.
+
 
 ### 🛠️ Core Technical Stack
 * **Deep Learning Frameworks:** PyTorch, TorchAO, Hugging Face Transformers, PyTorch Geometric (PyG).
