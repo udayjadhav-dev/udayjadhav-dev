@@ -1,21 +1,14 @@
-# Hi, I'm Uday Jadhav 🎓
-AI Systems & Green AI Researcher | M.Sc. Computer Science Candidate (University of Mumbai)
+Uday Jadhav
 
-Experienced software professional specializing in the intersection of advanced deep learning architectures, Large Language Model (LLM) compression, and scalable edge infrastructure solutions.
+M.Sc. Computer Science, University of Mumbai (expected Date :- June-2027)
+Interests: energy-efficient LLM inference, quantization, edge/on-device ML systems
 
----
+Featured work
 
-* Core Research Focus
-  - Green AI & Edge Computing: Designing mathematical optimization frameworks (Quantization, Pruning, Distillation) to deploy high-parameter neural models onto resource-constrained edge hardware.
-  - Natural Language Processing (NLP): Developing robust pipelines capable of capturing contextual boundary nuances, irony, implicit negation, and semantic transitions.
+* energy-aware-llm-edge**: Energy per token of Llama-3.2-3B on an Apple M2 (8 GB) under concurrent load; package, DRAM and whole-system power, 18 runs.
+* nlp-transformer-compression**: INT8 dynamic quantization of a transformer with TorchAO, reducing model parameters by 48.14%.
+* likenetflix-close**: Offline movie evaluation tool running a dynamically quantized INT8 transformer locally on Apple Silicon, with about 48% lower memory footprint.
 
-* Featured Research Repositories
-  - likenetflex-close: Privacy-First Offline TinyML Engine
-    An operational Green AI movie evaluation framework that streams metadata dynamically and runs a TorchAO INT8 dynamically quantized transformer model locally on Apple Silicon compute cores, achieving a ~48% reduction in memory layout constraints without public API dependency.
-  - nlp-transformer-compression
-    A production-ready deep transformer optimization pipeline utilizing TorchAO to dynamically compress parameters (INT8) by 48.14%, unblocking zero-latency standalone edge deployments with full linguistic resilience.
+Tools
 
-* Core Technical Stack
-  - Deep Learning Frameworks: PyTorch, TorchAO, Hugging Face Transformers, PyTorch Geometric (PyG).
-  - Languages & Automation: Python, SQL, Shell Scripting (macOS Terminal/Bash), Git LFS versioning data control.
-  - Web Integration & MLOps: Flask, Docker Containerization, Production API engineering.
+Python, PyTorch, TorchAO, Hugging Face Transformers, llama.cpp, macOS powermetrics and macmon, Git
